@@ -1,0 +1,27 @@
+What is web development, and why is it essential in the context of the internet?
+
+Web development is the process of creating and maintaining websites or web applications w nestaamlo fih el coding , designing w implementing functionalities
+
+ HTML Knowledge:
+
+HTML is a HyperText Markup Languag,primary purpose in web development is to structure content on the web
+
+CSS 
+
+used in web development to control the presentation and layout of HTML documents. It allows developers to apply styles, such as colors, fonts, spacing, and positioning, to elements on a web page
+
+JavaScript
+
+JavaScript is a programming language commonly used in web development to add interactivity and dynamic behavior to websites. 
+
+Section 5: Bonus Question
+
+
+Web developers enjoy high levels of job flexibility, with options to work as salaried employees, freelancers, or business owners in almost any industry.
+Web development offers a strong community and teamwork opportunities, with various online and offline resources for networking and problem-solving.
+
+
+
+
+
+
