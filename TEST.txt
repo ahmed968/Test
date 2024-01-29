@@ -1,6 +1,6 @@
 What is web development, and why is it essential in the context of the internet?
 
-Web development is the process of creating and maintaining websites or web applications w nestaamlo fih el coding , designing w implementing functionalities
+Web development is the process of creating and maintaining websites or web applications w nestaamlo fih el coding , designing w implementing functionalities w essential in the context of the internet because it serves as the foundation for creating and maintaining the digital landscape 
 
  HTML Knowledge:
 
